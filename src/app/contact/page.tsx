@@ -30,7 +30,7 @@ export default function Contact() {
           </div>
           <div className="bg-white/10 backdrop-blur-sm p-6 rounded-lg hover:bg-white/15 transition-all duration-300">
             <h3 className="text-xl font-bold mb-2">Location</h3>
-            <p className="text-gray-300">Tampere, Finland</p>
+            <p className="text-gray-300">Helsinki, Finland</p>
             <p className="text-gray-400 text-sm mt-1">UTC+2</p>
           </div>
         </div>
